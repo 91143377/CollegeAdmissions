@@ -1,6 +1,6 @@
 public class Student
 {
-    private  double gpa; //unweighted gpa of the student.
+    private  double gpa; //unweighted gpa of the student .
     private  int SAT; //SAT Score of the student
     private  int rank; //rank of the student in their graduate class
     private String name; //This variable will be used in the toString and called in future reform of program
